@@ -1,0 +1,14 @@
+.nav-buttons {
+    display: flex;
+    justify-content: baseline;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .cart-btn {
+    
+    font-size: 14px;
+    width: 50%;
+    height: 40px;
+  }
+  
